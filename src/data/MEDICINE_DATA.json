@@ -1,0 +1,1202 @@
+[
+	{
+		"id": 1,
+		"drug_name": "Hongo Cura",
+		"drug_company": "Kramer Laboratories",
+		"ndc_code": "55505-154"
+	},
+	{
+		"id": 2,
+		"drug_name": "Sensodyne",
+		"drug_company": "GlaxoSmithKline Consumer Healthcare LP",
+		"ndc_code": "10158-085"
+	},
+	{
+		"id": 3,
+		"drug_name": "Infants Gas Relief",
+		"drug_company": "Safeway",
+		"ndc_code": "21130-882"
+	},
+	{
+		"id": 4,
+		"drug_name": "Lovastatin",
+		"drug_company": "Lupin Pharmaceuticals, Inc.",
+		"ndc_code": "68180-468"
+	},
+	{
+		"id": 5,
+		"drug_name": "Penicillium notatum",
+		"drug_company": "Antigen Laboratories, Inc.",
+		"ndc_code": "49288-0416"
+	},
+	{
+		"id": 6,
+		"drug_name": "BANANA BOAT",
+		"drug_company": "Energizer Personal Care LLC",
+		"ndc_code": "63354-331"
+	},
+	{
+		"id": 7,
+		"drug_name": "Equaline Childrens Pain and Fever",
+		"drug_company": "Supervalu Inc",
+		"ndc_code": "41163-361"
+	},
+	{
+		"id": 8,
+		"drug_name": "Amlodipine Besylate",
+		"drug_company": "AvPAK",
+		"ndc_code": "50268-084"
+	},
+	{
+		"id": 9,
+		"drug_name": "Technetium Tc99m Generator",
+		"drug_company": "Medi-Physics Inc.",
+		"ndc_code": "17156-602"
+	},
+	{
+		"id": 10,
+		"drug_name": "DawnMist",
+		"drug_company": "Donovan Industries, Inc.",
+		"ndc_code": "55504-0540"
+	},
+	{
+		"id": 11,
+		"drug_name": "Sudafed PE Pressure Plus Pain Plus Cold",
+		"drug_company": "McNeil Consumer Healthcare Div. McNeil-PPC, Inc",
+		"ndc_code": "50580-679"
+	},
+	{
+		"id": 12,
+		"drug_name": "ATORVASTATIN CALCIUM",
+		"drug_company": "Blenheim Pharmacal, Inc.",
+		"ndc_code": "62034-011"
+	},
+	{
+		"id": 13,
+		"drug_name": "symmetry Foaming Hand Sanitizer with Aloe and Vitamin E",
+		"drug_company": "Project, Inc.",
+		"ndc_code": "64305-003"
+	},
+	{
+		"id": 14,
+		"drug_name": "Fexofenadine HCl",
+		"drug_company": "Chain Drug Consortium, LLC (Premier Value)",
+		"ndc_code": "68016-119"
+	},
+	{
+		"id": 15,
+		"drug_name": "METHADOSE",
+		"drug_company": "Mallinckrodt, Inc.",
+		"ndc_code": "0406-8725"
+	},
+	{
+		"id": 16,
+		"drug_name": "Oncospray Blue",
+		"drug_company": "Bryomed Inc.",
+		"ndc_code": "45984-0004"
+	},
+	{
+		"id": 17,
+		"drug_name": "PURELL Advanced Hand Sanitizer Winterberry Delight",
+		"drug_company": "GOJO Industries, Inc.",
+		"ndc_code": "21749-250"
+	},
+	{
+		"id": 18,
+		"drug_name": "Anti-Bacterial Gentle Foaming Hand",
+		"drug_company": "Bath & Body Works, Inc.",
+		"ndc_code": "62670-4369"
+	},
+	{
+		"id": 19,
+		"drug_name": "Bio Glyoxal Phase",
+		"drug_company": "Deseret Biologicals, Inc.",
+		"ndc_code": "43742-0405"
+	},
+	{
+		"id": 20,
+		"drug_name": "Buspirone Hydrochloride",
+		"drug_company": "Mylan Institutional Inc.",
+		"ndc_code": "51079-960"
+	},
+	{
+		"id": 21,
+		"drug_name": "Advance Techniques Keep Clear",
+		"drug_company": "Avon Products, Inc.",
+		"ndc_code": "10096-0221"
+	},
+	{
+		"id": 22,
+		"drug_name": "health mart migraine relief",
+		"drug_company": "McKesson",
+		"ndc_code": "62011-0243"
+	},
+	{
+		"id": 23,
+		"drug_name": "Sodium Chloride",
+		"drug_company": "Hospira, Inc.",
+		"ndc_code": "0409-6657"
+	},
+	{
+		"id": 24,
+		"drug_name": "Pollens - Trees, Mulberry Mix",
+		"drug_company": "Jubilant HollisterStier LLC",
+		"ndc_code": "65044-1910"
+	},
+	{
+		"id": 25,
+		"drug_name": "Blistex",
+		"drug_company": "Blistex Inc.",
+		"ndc_code": "10157-9822"
+	},
+	{
+		"id": 26,
+		"drug_name": "Fluconazole",
+		"drug_company": "Teva Parenteral Medicines, Inc.",
+		"ndc_code": "0703-1020"
+	},
+	{
+		"id": 27,
+		"drug_name": "PANCRELIPASE",
+		"drug_company": "KAISER FOUNDATION HOSPITALS",
+		"ndc_code": "0179-0020"
+	},
+	{
+		"id": 28,
+		"drug_name": "Sorbet APF",
+		"drug_company": "Mycone Dental Supply Co., Inc DBA Keystone Industries and Deepak Products Inc.",
+		"ndc_code": "68400-707"
+	},
+	{
+		"id": 29,
+		"drug_name": "flormar REBORN FOUNDATION SUNSCREEN BROAD SPECTRUM SPF 20 SF01 Rose",
+		"drug_company": "Kosan Kozmetik Sanayi ve Ticaret A.S.",
+		"ndc_code": "61722-200"
+	},
+	{
+		"id": 30,
+		"drug_name": "Hizentra",
+		"drug_company": "CSL Behring AG",
+		"ndc_code": "44206-454"
+	},
+	{
+		"id": 31,
+		"drug_name": "Mineral Ice",
+		"drug_company": "Novartis Consumer Health, Inc.",
+		"ndc_code": "0067-2067"
+	},
+	{
+		"id": 32,
+		"drug_name": "Oxygen",
+		"drug_company": "Heckman Healthcare Service & Supplies Inc",
+		"ndc_code": "53835-0001"
+	},
+	{
+		"id": 33,
+		"drug_name": "Helium",
+		"drug_company": "AIRGAS-NORPAC INC.",
+		"ndc_code": "57472-007"
+	},
+	{
+		"id": 34,
+		"drug_name": "Oxygen",
+		"drug_company": "Hagan, Logan Welding Supply Inc",
+		"ndc_code": "49507-001"
+	},
+	{
+		"id": 35,
+		"drug_name": "Felodipine",
+		"drug_company": "Bryant Ranch Prepack",
+		"ndc_code": "63629-1597"
+	},
+	{
+		"id": 36,
+		"drug_name": "Cough and Cold",
+		"drug_company": "WOONSOCKET PRESCRIPTION CENTER,INCORPORATED",
+		"ndc_code": "59779-411"
+	},
+	{
+		"id": 37,
+		"drug_name": "Head and Shoulders 2in1",
+		"drug_company": "Procter & Gamble Manufacturing Co.",
+		"ndc_code": "37000-342"
+	},
+	{
+		"id": 38,
+		"drug_name": "ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20",
+		"drug_company": "Ventura Corporation LTD",
+		"ndc_code": "13537-197"
+	},
+	{
+		"id": 39,
+		"drug_name": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+		"drug_company": "Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC",
+		"ndc_code": "49999-060"
+	},
+	{
+		"id": 40,
+		"drug_name": "Risk True",
+		"drug_company": "H-E-B",
+		"ndc_code": "37808-689"
+	},
+	{
+		"id": 41,
+		"drug_name": "Doxycycline Hyclate",
+		"drug_company": "Harris Pharmaceutical, Inc",
+		"ndc_code": "67405-651"
+	},
+	{
+		"id": 42,
+		"drug_name": "Carvedilol",
+		"drug_company": "REMEDYREPACK INC.",
+		"ndc_code": "52125-210"
+	},
+	{
+		"id": 43,
+		"drug_name": "PAIN Terminator Analgesic",
+		"drug_company": "Nan Mei Pharmaceutical Co., Ltd.",
+		"ndc_code": "62699-3313"
+	},
+	{
+		"id": 44,
+		"drug_name": "FIBRICOR",
+		"drug_company": "Caraco Pharma, Inc.",
+		"ndc_code": "49708-102"
+	},
+	{
+		"id": 45,
+		"drug_name": "Venlafaxine Hydrochloride",
+		"drug_company": "Torrent Pharmaceuticals Limited",
+		"ndc_code": "13668-019"
+	},
+	{
+		"id": 46,
+		"drug_name": "Hydrocodone Bitartrate and Ibuprofen",
+		"drug_company": "Teva Pharmaceuticals USA Inc",
+		"ndc_code": "0093-5161"
+	},
+	{
+		"id": 47,
+		"drug_name": "Gemfibrozil",
+		"drug_company": "A-S Medication Solutions LLC",
+		"ndc_code": "54569-3695"
+	},
+	{
+		"id": 48,
+		"drug_name": "Trazodone Hydrochloride",
+		"drug_company": "Rebel Distributors Corp.",
+		"ndc_code": "21695-133"
+	},
+	{
+		"id": 49,
+		"drug_name": "Air Pollution Detox",
+		"drug_company": "Liddell Laboratoriess, Inc.",
+		"ndc_code": "50845-0168"
+	},
+	{
+		"id": 50,
+		"drug_name": "Cardioplegic",
+		"drug_company": "Baxter Healthcare Corporation",
+		"ndc_code": "0338-0341"
+	},
+	{
+		"id": 51,
+		"drug_name": "BLATELLA GERMANICA",
+		"drug_company": "ALK-Abello, Inc.",
+		"ndc_code": "0268-0718"
+	},
+	{
+		"id": 52,
+		"drug_name": "Actoplus Met",
+		"drug_company": "Takeda Pharmaceuticals America, Inc.",
+		"ndc_code": "64764-310"
+	},
+	{
+		"id": 53,
+		"drug_name": "PF HAND SANITIZING",
+		"drug_company": "Premium Formulations LLC",
+		"ndc_code": "76323-005"
+	},
+	{
+		"id": 54,
+		"drug_name": "Sun Protect Beblesh Pact SPF30 PA 2Plus",
+		"drug_company": "WIZCOZ CORPORATION LTD",
+		"ndc_code": "49715-009"
+	},
+	{
+		"id": 55,
+		"drug_name": "Piyanping antiitch",
+		"drug_company": "Guangdong Zhanjiang Jimin Pharmaceutical Company, Ltd.",
+		"ndc_code": "68085-8012"
+	},
+	{
+		"id": 56,
+		"drug_name": "Peptic Relief",
+		"drug_company": "Premier Value",
+		"ndc_code": "68016-016"
+	},
+	{
+		"id": 57,
+		"drug_name": "Signature Antibacterial Foaming Hand",
+		"drug_company": "Cintas Corp.",
+		"ndc_code": "42961-011"
+	},
+	{
+		"id": 58,
+		"drug_name": "Metformin Hydrochloride",
+		"drug_company": "REMEDYREPACK INC.",
+		"ndc_code": "52125-207"
+	},
+	{
+		"id": 59,
+		"drug_name": "Meaningful Beauty Cindy Crawford",
+		"drug_company": "Guthy-Renker LLC",
+		"ndc_code": "11410-141"
+	},
+	{
+		"id": 60,
+		"drug_name": "Fluconazole",
+		"drug_company": "Greenstone LLC",
+		"ndc_code": "59762-5029"
+	},
+	{
+		"id": 61,
+		"drug_name": "Nice",
+		"drug_company": "Walgreen Co.",
+		"ndc_code": "0363-0554"
+	},
+	{
+		"id": 62,
+		"drug_name": "Terocin",
+		"drug_company": "Alexso Inc.",
+		"ndc_code": "50488-1001"
+	},
+	{
+		"id": 63,
+		"drug_name": "Technetium Tc99m Generator",
+		"drug_company": "Medi-Physics Inc.",
+		"ndc_code": "17156-606"
+	},
+	{
+		"id": 64,
+		"drug_name": "ropinirole",
+		"drug_company": "Glenmark Generics Inc., USA",
+		"ndc_code": "68462-258"
+	},
+	{
+		"id": 65,
+		"drug_name": "ziprasidone hydrochloride",
+		"drug_company": "REMEDYREPACK INC.",
+		"ndc_code": "49349-954"
+	},
+	{
+		"id": 66,
+		"drug_name": "Goodys Headache Relief Shot",
+		"drug_company": "Medtech Products Inc.",
+		"ndc_code": "63029-639"
+	},
+	{
+		"id": 67,
+		"drug_name": "Childrens QPAP",
+		"drug_company": "Qualitest Pharmaceuticals",
+		"ndc_code": "0603-0842"
+	},
+	{
+		"id": 68,
+		"drug_name": "Salagen",
+		"drug_company": "Eisai Inc.",
+		"ndc_code": "62856-705"
+	},
+	{
+		"id": 69,
+		"drug_name": "Divalproex Sodium",
+		"drug_company": "McKesson Packaging Services a business unit of McKesson Corporation",
+		"ndc_code": "63739-553"
+	},
+	{
+		"id": 70,
+		"drug_name": "Strattera",
+		"drug_company": "Physicians Total Care, Inc.",
+		"ndc_code": "54868-1911"
+	},
+	{
+		"id": 71,
+		"drug_name": "Anti-bacterial Hand",
+		"drug_company": "Jets, Sets, & Elephants Beauty Corp.",
+		"ndc_code": "50988-271"
+	},
+	{
+		"id": 72,
+		"drug_name": "Dicel",
+		"drug_company": "Centrix Pharmaceutical",
+		"ndc_code": "11528-107"
+	},
+	{
+		"id": 73,
+		"drug_name": "Metformin Hydrochloride Extended Release",
+		"drug_company": "Major Pharmaceuticals",
+		"ndc_code": "0904-5795"
+	},
+	{
+		"id": 74,
+		"drug_name": "Skin So Soft Bug Guard Plus IR3535",
+		"drug_company": "Avon Products, Inc",
+		"ndc_code": "10096-8026"
+	},
+	{
+		"id": 75,
+		"drug_name": "HCG Plus",
+		"drug_company": "ABCO Laboratories, Inc.",
+		"ndc_code": "54118-7188"
+	},
+	{
+		"id": 76,
+		"drug_name": "Cough",
+		"drug_company": "Rugby Laboratories Inc.",
+		"ndc_code": "0536-0825"
+	},
+	{
+		"id": 77,
+		"drug_name": "Amitriptyline Hydrochloride",
+		"drug_company": "Lake Erie Medical DBA Quality Care Products LLC",
+		"ndc_code": "49999-909"
+	},
+	{
+		"id": 78,
+		"drug_name": "Aspirin",
+		"drug_company": "Apotheca, Inc",
+		"ndc_code": "12634-120"
+	},
+	{
+		"id": 79,
+		"drug_name": "AN ADC WHITENING BB",
+		"drug_company": "AN Co Ltd.",
+		"ndc_code": "69153-060"
+	},
+	{
+		"id": 80,
+		"drug_name": "Cyclafem 7/7/7",
+		"drug_company": "Qualitest Pharmaceuticals",
+		"ndc_code": "0603-7525"
+	},
+	{
+		"id": 81,
+		"drug_name": "Ritalin",
+		"drug_company": "Novartis Pharmaceuticals Corporation",
+		"ndc_code": "0078-0370"
+	},
+	{
+		"id": 82,
+		"drug_name": "The Natural Dentist",
+		"drug_company": "Caldwell Consumer Health LLC",
+		"ndc_code": "34362-0236"
+	},
+	{
+		"id": 83,
+		"drug_name": "Lima Bean",
+		"drug_company": "Antigen Laboratories, Inc.",
+		"ndc_code": "49288-0043"
+	},
+	{
+		"id": 84,
+		"drug_name": "Alclometasone Dipropionate",
+		"drug_company": "E. FOUGERA & CO., A division of Fougera Pharmaceuticals Inc.",
+		"ndc_code": "0168-0263"
+	},
+	{
+		"id": 85,
+		"drug_name": "NAVI Mate Gold",
+		"drug_company": "EQ Maxon Corp.",
+		"ndc_code": "55526-0002"
+	},
+	{
+		"id": 86,
+		"drug_name": "JUNIPERUS ASHEI POLLEN",
+		"drug_company": "ALK-Abello, Inc.",
+		"ndc_code": "0268-1099"
+	},
+	{
+		"id": 87,
+		"drug_name": "MUCINEX",
+		"drug_company": "Dispensing Solutions, Inc.",
+		"ndc_code": "55045-3143"
+	},
+	{
+		"id": 88,
+		"drug_name": "THE ORIGINAL NATURAL HERB COUGH DROPS",
+		"drug_company": "Ricola Ag",
+		"ndc_code": "54305-175"
+	},
+	{
+		"id": 89,
+		"drug_name": "CARBON DIOXIDE",
+		"drug_company": "U.S. Oxygen and Supply, LLC",
+		"ndc_code": "54632-004"
+	},
+	{
+		"id": 90,
+		"drug_name": "Levofloxacin",
+		"drug_company": "Claris Lifesciences Inc.",
+		"ndc_code": "36000-047"
+	},
+	{
+		"id": 91,
+		"drug_name": "Carbamazepine",
+		"drug_company": "Apotex Corp.",
+		"ndc_code": "60505-2807"
+	},
+	{
+		"id": 92,
+		"drug_name": "Stool Softener",
+		"drug_company": "Shopko Stores Operating Co., LLC.",
+		"ndc_code": "37012-238"
+	},
+	{
+		"id": 93,
+		"drug_name": "Plan B One-Step",
+		"drug_company": "Teva Women's Health, Inc.",
+		"ndc_code": "51285-943"
+	},
+	{
+		"id": 94,
+		"drug_name": "Triamcinolone Acetonide",
+		"drug_company": "Perrigo New York Inc",
+		"ndc_code": "45802-064"
+	},
+	{
+		"id": 95,
+		"drug_name": "Lady Speed Stick",
+		"drug_company": "Colgate-Palmolive Company",
+		"ndc_code": "35000-868"
+	},
+	{
+		"id": 96,
+		"drug_name": "Angeliq",
+		"drug_company": "Physicians Total Care, Inc.",
+		"ndc_code": "54868-6184"
+	},
+	{
+		"id": 97,
+		"drug_name": "BIOTOX BAC",
+		"drug_company": "The Wellness Center for Research and Education, Inc.",
+		"ndc_code": "50181-0046"
+	},
+	{
+		"id": 98,
+		"drug_name": "Titralac Plus",
+		"drug_company": "iNova Pharmaceuticals Pty, Ltd",
+		"ndc_code": "55298-013"
+	},
+	{
+		"id": 99,
+		"drug_name": "Calcium Acetate",
+		"drug_company": "Sandoz Inc",
+		"ndc_code": "0781-2081"
+	},
+	{
+		"id": 100,
+		"drug_name": "Celeragesic",
+		"drug_company": "Deseret Biologicals, Inc.",
+		"ndc_code": "43742-0013"
+	},
+	{
+		"id": 101,
+		"drug_name": "Chlorpheniramine Maleate",
+		"drug_company": "Bryant Ranch Prepack",
+		"ndc_code": "63629-2745"
+	},
+	{
+		"id": 102,
+		"drug_name": "Food - Plant Source, Walnut, Black Juglans nigra",
+		"drug_company": "Jubilant HollisterStier LLC",
+		"ndc_code": "65044-3695"
+	},
+	{
+		"id": 103,
+		"drug_name": "Terbinafine Hydrochloride",
+		"drug_company": "Golden State Medical Supply, Inc.",
+		"ndc_code": "60429-222"
+	},
+	{
+		"id": 104,
+		"drug_name": "Fluphenazine Hydrochloride",
+		"drug_company": "Sandoz Inc",
+		"ndc_code": "0781-1436"
+	},
+	{
+		"id": 105,
+		"drug_name": "Fluoxetine",
+		"drug_company": "State of Florida DOH Central Pharmacy",
+		"ndc_code": "53808-0836"
+	},
+	{
+		"id": 106,
+		"drug_name": "ELELYSO",
+		"drug_company": "Pfizer Laboratories Div Pfizer Inc",
+		"ndc_code": "0069-0106"
+	},
+	{
+		"id": 107,
+		"drug_name": "Nu Skin ageLOC Radiant Day Broad Spectrum SPF 22",
+		"drug_company": "NSE Products, Inc.",
+		"ndc_code": "62839-3904"
+	},
+	{
+		"id": 108,
+		"drug_name": "CYPROHEPTADINE HYDROCHLORIDE",
+		"drug_company": "REMEDYREPACK INC.",
+		"ndc_code": "52125-014"
+	},
+	{
+		"id": 109,
+		"drug_name": "Lipitor",
+		"drug_company": "Physicians Total Care, Inc",
+		"ndc_code": "54868-3946"
+	},
+	{
+		"id": 110,
+		"drug_name": "Allergy Relief",
+		"drug_company": "Western Family Foods Inc",
+		"ndc_code": "55312-612"
+	},
+	{
+		"id": 111,
+		"drug_name": "Antibacterial",
+		"drug_company": "Topco Associates LLC",
+		"ndc_code": "76162-101"
+	},
+	{
+		"id": 112,
+		"drug_name": "Doxorubicin Hydrochloride",
+		"drug_company": "Mylan Institutional LLC",
+		"ndc_code": "67457-396"
+	},
+	{
+		"id": 113,
+		"drug_name": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+		"drug_company": "Aphena Pharma Solutions - Tennessee, LLC",
+		"ndc_code": "67544-001"
+	},
+	{
+		"id": 114,
+		"drug_name": "Illusion Tinted Moisturizer Broad Spectrum Shell",
+		"drug_company": "Kingdom Animalia, LLC DBA Hourglass Cosmetics",
+		"ndc_code": "42627-254"
+	},
+	{
+		"id": 115,
+		"drug_name": "Flor-Opal Sustained-Release Fluoride",
+		"drug_company": "Ultradent Products, Inc",
+		"ndc_code": "51206-402"
+	},
+	{
+		"id": 116,
+		"drug_name": "AMRIX",
+		"drug_company": "Physicians Total Care, Inc.",
+		"ndc_code": "54868-6022"
+	},
+	{
+		"id": 117,
+		"drug_name": "Xylocaine",
+		"drug_company": "Cardinal Health",
+		"ndc_code": "55154-9569"
+	},
+	{
+		"id": 118,
+		"drug_name": "AMITRIPTYLINE HYDROCHLORIDE",
+		"drug_company": "STAT RX USA LLC",
+		"ndc_code": "16590-437"
+	},
+	{
+		"id": 119,
+		"drug_name": "CYCLOBENZAPRINE HYDROCHLORIDE",
+		"drug_company": "New Horizon Rx Group, LLC",
+		"ndc_code": "58517-080"
+	},
+	{
+		"id": 120,
+		"drug_name": "Instant Hand Sanitizer Fresh Aloe",
+		"drug_company": "BB17, LLC",
+		"ndc_code": "53603-1003"
+	},
+	{
+		"id": 121,
+		"drug_name": "Jafra",
+		"drug_company": "Jafra Cosmetics International Inc",
+		"ndc_code": "68828-106"
+	},
+	{
+		"id": 122,
+		"drug_name": "DIAZEPAM",
+		"drug_company": "STAT RX USA LLC",
+		"ndc_code": "16590-071"
+	},
+	{
+		"id": 123,
+		"drug_name": "Calcium Acetate",
+		"drug_company": "Cardinal Health",
+		"ndc_code": "55154-4961"
+	},
+	{
+		"id": 124,
+		"drug_name": "NIGHTTIME",
+		"drug_company": "Publix Super Markets Inc",
+		"ndc_code": "56062-668"
+	},
+	{
+		"id": 125,
+		"drug_name": "Dehydrated Alcohol",
+		"drug_company": "Akorn, Inc.",
+		"ndc_code": "17478-503"
+	},
+	{
+		"id": 126,
+		"drug_name": "Disney PIXAR MONSTERS UNIVERSITY Antibacterial Hand Wipes",
+		"drug_company": "Peachtree Playthings, Inc.",
+		"ndc_code": "44119-004"
+	},
+	{
+		"id": 127,
+		"drug_name": "Prevail",
+		"drug_company": "Duane Reade",
+		"ndc_code": "24488-020"
+	},
+	{
+		"id": 128,
+		"drug_name": "Papaya",
+		"drug_company": "Nelco Laboratories, Inc.",
+		"ndc_code": "36987-1598"
+	},
+	{
+		"id": 129,
+		"drug_name": "Coconut Vanilla Hand Sanitizer",
+		"drug_company": "Unique Holding Group Inc",
+		"ndc_code": "25225-022"
+	},
+	{
+		"id": 130,
+		"drug_name": "Carvedilol",
+		"drug_company": "REMEDYREPACK INC.",
+		"ndc_code": "52125-119"
+	},
+	{
+		"id": 131,
+		"drug_name": "AcneFree Clear Skin Treatments",
+		"drug_company": "Valeant Pharmaceuticals North America LLC",
+		"ndc_code": "0187-5012"
+	},
+	{
+		"id": 132,
+		"drug_name": "AGAVE CACTUS",
+		"drug_company": "SKINFOOD CO., LTD.",
+		"ndc_code": "76214-004"
+	},
+	{
+		"id": 133,
+		"drug_name": "CUPRESSUS ARIZONICA POLLEN",
+		"drug_company": "ALK-Abello, Inc.",
+		"ndc_code": "0268-6703"
+	},
+	{
+		"id": 134,
+		"drug_name": "stavudine",
+		"drug_company": "Cipla Limited",
+		"ndc_code": "53104-0111"
+	},
+	{
+		"id": 135,
+		"drug_name": "Pituitary Forte",
+		"drug_company": "BioActive Nutritional, Inc.",
+		"ndc_code": "43857-0006"
+	},
+	{
+		"id": 136,
+		"drug_name": "Paclitaxel",
+		"drug_company": "Teva Parenteral Medicines, Inc.",
+		"ndc_code": "0703-4764"
+	},
+	{
+		"id": 137,
+		"drug_name": "Lotrel",
+		"drug_company": "Novartis Pharmaceuticals Corporation",
+		"ndc_code": "0078-0379"
+	},
+	{
+		"id": 138,
+		"drug_name": "BabySpa",
+		"drug_company": "EXPRO3 LLC",
+		"ndc_code": "42957-001"
+	},
+	{
+		"id": 139,
+		"drug_name": "ShopKo Absolute Daily Moisturizer SPF15 Sensitive Skin",
+		"drug_company": "Shopko Stores Operating Co., LLC",
+		"ndc_code": "37012-726"
+	},
+	{
+		"id": 140,
+		"drug_name": "MISSHA M SWIRL BB SUN BALM",
+		"drug_company": "ABLE C&C CO., LTD.",
+		"ndc_code": "13733-012"
+	},
+	{
+		"id": 141,
+		"drug_name": "Carvedilol",
+		"drug_company": "Sandoz Inc",
+		"ndc_code": "0781-5221"
+	},
+	{
+		"id": 142,
+		"drug_name": "CombiPatch",
+		"drug_company": "Novartis Pharmaceuticals Corporation",
+		"ndc_code": "0078-0378"
+	},
+	{
+		"id": 143,
+		"drug_name": "Dermadrox",
+		"drug_company": "GERITREX CORP",
+		"ndc_code": "54162-221"
+	},
+	{
+		"id": 144,
+		"drug_name": "Peptic Relief",
+		"drug_company": "Leader",
+		"ndc_code": "37205-302"
+	},
+	{
+		"id": 145,
+		"drug_name": "Nabumetone",
+		"drug_company": "Rebel Distributors Corp.",
+		"ndc_code": "21695-230"
+	},
+	{
+		"id": 146,
+		"drug_name": "KLEENEX Luxury Foam Antibacterial Skin Cleanser",
+		"drug_company": "Kimberly-Clark Corporation",
+		"ndc_code": "55118-420"
+	},
+	{
+		"id": 147,
+		"drug_name": "Meloxicam",
+		"drug_company": "NCS HealthCare of KY, Inc dba Vangard Labs",
+		"ndc_code": "0615-6568"
+	},
+	{
+		"id": 148,
+		"drug_name": "Glyburide and Metformin Hydrochloride",
+		"drug_company": "CorePharma, LLC",
+		"ndc_code": "64720-142"
+	},
+	{
+		"id": 149,
+		"drug_name": "Donnatal",
+		"drug_company": "PBM Pharmaceuticals Inc.",
+		"ndc_code": "66213-422"
+	},
+	{
+		"id": 150,
+		"drug_name": "Risperidone",
+		"drug_company": "H.J. Harkins Company, Inc.",
+		"ndc_code": "52959-941"
+	},
+	{
+		"id": 151,
+		"drug_name": "Oxazepam",
+		"drug_company": "Sandoz Inc",
+		"ndc_code": "0781-2809"
+	},
+	{
+		"id": 152,
+		"drug_name": "Fluconazole",
+		"drug_company": "REMEDYREPACK INC.",
+		"ndc_code": "49349-897"
+	},
+	{
+		"id": 153,
+		"drug_name": "Medium Beige Foundation SPF 15",
+		"drug_company": "Bare Escentuals Beauty Inc.",
+		"ndc_code": "98132-881"
+	},
+	{
+		"id": 154,
+		"drug_name": "TERRACOTTA JOLI TEINT BEAUTIFYING FOUNDATION WITH SUNSCREEN SUN-KISSED, HEALTHY GLOW BROAD SPECTRUM SPF 20 DARK",
+		"drug_company": "Guerlain S.A.",
+		"ndc_code": "49817-0074"
+	},
+	{
+		"id": 155,
+		"drug_name": "Lisinopril",
+		"drug_company": "Med-Health Pharma, LLC",
+		"ndc_code": "51138-068"
+	},
+	{
+		"id": 156,
+		"drug_name": "Hepataplex",
+		"drug_company": "Apotheca Company",
+		"ndc_code": "57520-0110"
+	},
+	{
+		"id": 157,
+		"drug_name": "Vancomycin Hydrochloride",
+		"drug_company": "APP Pharmaceuticals, LLC",
+		"ndc_code": "63323-339"
+	},
+	{
+		"id": 158,
+		"drug_name": "Zolpidem Tartrate",
+		"drug_company": "McKesson Contract Packaging",
+		"ndc_code": "76237-258"
+	},
+	{
+		"id": 159,
+		"drug_name": "Afrin",
+		"drug_company": "MSD Consumer Care, Inc.",
+		"ndc_code": "11523-7020"
+	},
+	{
+		"id": 160,
+		"drug_name": "UPSET STOMACH",
+		"drug_company": "Hyland's",
+		"ndc_code": "54973-9150"
+	},
+	{
+		"id": 161,
+		"drug_name": "health mart daytime",
+		"drug_company": "Mckesson",
+		"ndc_code": "62011-0065"
+	},
+	{
+		"id": 162,
+		"drug_name": "Anticavity Fluoride Rinse",
+		"drug_company": "HEB",
+		"ndc_code": "37808-163"
+	},
+	{
+		"id": 163,
+		"drug_name": "Smart San Hand Sanitizer",
+		"drug_company": "Best Sanitizers, Inc",
+		"ndc_code": "59900-116"
+	},
+	{
+		"id": 164,
+		"drug_name": "Neutrogena MoistureShine Lip Soother",
+		"drug_company": "Neutrogena Corporation",
+		"ndc_code": "10812-199"
+	},
+	{
+		"id": 165,
+		"drug_name": "Mometasone Furoate",
+		"drug_company": "Glenmark Generics Inc., USA",
+		"ndc_code": "68462-192"
+	},
+	{
+		"id": 166,
+		"drug_name": "Santalia Clinical Daily Serum",
+		"drug_company": "Santalis Pharmaceuticals",
+		"ndc_code": "76358-194"
+	},
+	{
+		"id": 167,
+		"drug_name": "family wellness acid controller complete",
+		"drug_company": "Family Dollar Services Inc",
+		"ndc_code": "55319-321"
+	},
+	{
+		"id": 168,
+		"drug_name": "EROS EXTENDED LOVE GLIDE",
+		"drug_company": "MEGASOL COSMETIC GMBH",
+		"ndc_code": "53389-561"
+	},
+	{
+		"id": 169,
+		"drug_name": "Acid Reducer",
+		"drug_company": "P and L Development of New York Corporation",
+		"ndc_code": "59726-127"
+	},
+	{
+		"id": 170,
+		"drug_name": "Derma Doctor Born to be Mild Cleanser",
+		"drug_company": "DERMAdoctor",
+		"ndc_code": "68715-084"
+	},
+	{
+		"id": 171,
+		"drug_name": "Facility Maintenance Instant Hand Sanitizer HS-67",
+		"drug_company": "Knight Facilities Management, Inc.",
+		"ndc_code": "28064-515"
+	},
+	{
+		"id": 172,
+		"drug_name": "Fiore Rx Rock Candy Clear Antifungal Nail Lacquer",
+		"drug_company": "Cosco International, Inc.",
+		"ndc_code": "52261-0203"
+	},
+	{
+		"id": 173,
+		"drug_name": "Adderall",
+		"drug_company": "Shire US Manufacturing Inc.",
+		"ndc_code": "54092-391"
+	},
+	{
+		"id": 174,
+		"drug_name": "Nitrous Oxide",
+		"drug_company": "AGL Inhalation Therapy Co.",
+		"ndc_code": "17575-011"
+	},
+	{
+		"id": 175,
+		"drug_name": "health mart nasal decongestant",
+		"drug_company": "McKesson",
+		"ndc_code": "62011-0078"
+	},
+	{
+		"id": 176,
+		"drug_name": "Methyldopa",
+		"drug_company": "Mylan Pharmaceuticals Inc.",
+		"ndc_code": "0378-0611"
+	},
+	{
+		"id": 177,
+		"drug_name": "Schein Triple Antibiotic",
+		"drug_company": "Henry Schein, Inc.",
+		"ndc_code": "0404-0360"
+	},
+	{
+		"id": 178,
+		"drug_name": "Robitussin Peak Cold Multi-Symptom Cold",
+		"drug_company": "Richmond Division of Wyeth",
+		"ndc_code": "0031-8742"
+	},
+	{
+		"id": 179,
+		"drug_name": "Paclitaxel",
+		"drug_company": "Teva Parenteral Medicines, Inc.",
+		"ndc_code": "0703-4766"
+	},
+	{
+		"id": 180,
+		"drug_name": "EUPATORIUM CAPILLIFOLIUM POLLEN",
+		"drug_company": "ALK-Abello, Inc.",
+		"ndc_code": "0268-6707"
+	},
+	{
+		"id": 181,
+		"drug_name": "Antibacterial Foaming Hand",
+		"drug_company": "Jets, Sets, & Elephants Beauty Corp.",
+		"ndc_code": "50988-293"
+	},
+	{
+		"id": 182,
+		"drug_name": "Acyclovir",
+		"drug_company": "Physicians Total Care, Inc.",
+		"ndc_code": "54868-3997"
+	},
+	{
+		"id": 183,
+		"drug_name": "HISTEX",
+		"drug_company": "Allegis Pharmaceuticals, LLC",
+		"ndc_code": "28595-802"
+	},
+	{
+		"id": 184,
+		"drug_name": "Crab",
+		"drug_company": "Nelco Laboratories, Inc.",
+		"ndc_code": "36987-1206"
+	},
+	{
+		"id": 185,
+		"drug_name": "Pristiq",
+		"drug_company": "Physicians Total Care, Inc.",
+		"ndc_code": "54868-2932"
+	},
+	{
+		"id": 186,
+		"drug_name": "Bupivacaine Hydrochloride",
+		"drug_company": "Cardinal Health",
+		"ndc_code": "55154-6991"
+	},
+	{
+		"id": 187,
+		"drug_name": "Prednisolone Sodium Phosphate Oral Solution",
+		"drug_company": "Mission Pharmacal Company",
+		"ndc_code": "0178-0582"
+	},
+	{
+		"id": 188,
+		"drug_name": "Heparin Sodium",
+		"drug_company": "Hospira, Inc.",
+		"ndc_code": "0409-2581"
+	},
+	{
+		"id": 189,
+		"drug_name": "Diclofenac Sodium",
+		"drug_company": "Bryant Ranch Prepack",
+		"ndc_code": "63629-1534"
+	},
+	{
+		"id": 190,
+		"drug_name": "PRIMAXIN",
+		"drug_company": "Merck Sharp & Dohme Corp.",
+		"ndc_code": "0006-3514"
+	},
+	{
+		"id": 191,
+		"drug_name": "Chlorpromazine Hydrochloride",
+		"drug_company": "American Health Packaging",
+		"ndc_code": "68084-420"
+	},
+	{
+		"id": 192,
+		"drug_name": "losartan potassium",
+		"drug_company": "PD-Rx Pharmaceuticals, Inc.",
+		"ndc_code": "43063-477"
+	},
+	{
+		"id": 193,
+		"drug_name": "Veil Fluid Makeup Porcelain",
+		"drug_company": "Kingdom Animalia, LLC. DBA Hourglass Cosmetics",
+		"ndc_code": "42627-201"
+	},
+	{
+		"id": 194,
+		"drug_name": "Alcohol",
+		"drug_company": "Progressive Products, LLC",
+		"ndc_code": "67151-404"
+	},
+	{
+		"id": 195,
+		"drug_name": "topcare pain relief pm",
+		"drug_company": "Topco Associates LLC",
+		"ndc_code": "36800-829"
+	},
+	{
+		"id": 196,
+		"drug_name": "STANDARDIZED KENTUCKY BLUEGRASS POLLEN",
+		"drug_company": "Allergy Laboratories, Inc.",
+		"ndc_code": "54575-087"
+	},
+	{
+		"id": 197,
+		"drug_name": "EFFET PARFAIT",
+		"drug_company": "VENTURA INTERNATIONAL LTD",
+		"ndc_code": "14783-140"
+	},
+	{
+		"id": 198,
+		"drug_name": "Acetaminophen And Codeine",
+		"drug_company": "Qualitest Pharmaceuticals",
+		"ndc_code": "0603-2337"
+	},
+	{
+		"id": 199,
+		"drug_name": "Tork Hand Sanitizer Alcohol Gel",
+		"drug_company": "SCA Tissue North America",
+		"ndc_code": "49351-101"
+	},
+	{
+		"id": 200,
+		"drug_name": "Mucinex",
+		"drug_company": "Rebel Distributors Corp",
+		"ndc_code": "21695-870"
+	}
+]
