@@ -12,7 +12,7 @@ import { GlobalFilter } from "./GlobalFilter";
 import { ColumnFilter } from "./ColumnFilter";
 import { ReadOnlyRow } from "./ReadOnlyRow";
 import { EditableRow } from "./EditableRow";
-import { useParams } from "react-router-dom";
+import { useParams, Link } from "react-router-dom";
 
 import PEOPLE_DATA from "../data/PEOPLE_DATA.json";
 import { peopleColumn } from "../data/peopleColumn";
@@ -224,7 +224,7 @@ export const MainTable = () => {
 				</button>
 			</div>
 			<h2>Add a row</h2>
-			<form style={{ marginBottom: "50px" }}>
+			<form style={{ marginBottom: "20px" }}>
 				{columns.map((column) => {
 					return (
 						<input
@@ -239,6 +239,11 @@ export const MainTable = () => {
 				})}
 				<button type="submit">Add row</button>
 			</form>
+			<Link to="/">
+				<button type="button" style={{ marginBottom: "50px" }}>
+					Go back
+				</button>
+			</Link>
 		</>
 	);
 };
